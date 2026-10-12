@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://weiyu.page"><img src="https://img.shields.io/badge/Homepage-weiyu.page-8c1515?style=flat-square" alt="Homepage"/></a>
+  <a href="https://weiyu.page"><img src="https://img.shields.io/badge/Homepage-weiyu.page-3fd2ff?style=flat-square" alt="Homepage"/></a>
   <a href="https://scholar.google.com/citations?user=_waWSjEAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Weiyu%20Ma-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="mailto:sc2meisah@gmail.com"><img src="https://img.shields.io/badge/Email-sc2meisah%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
