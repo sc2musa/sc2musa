@@ -28,7 +28,7 @@ My research asks how AI can perceive, decide and keep learning from interaction 
 | **LLM-SMAC** | The first Agentic RL for multi-agent decision-making | AAMAS 2026 | [Paper](https://arxiv.org/abs/2410.16024) · [Code](https://github.com/devindeng94/LLM-SMAC) |
 | **FreshPER** | The first general experience-replay algorithm for LLM post-training | Under review | [Paper](https://arxiv.org/abs/2604.16918) · [Code](https://github.com/Vision-CAIR/Freshness-Aware-PER) |
 | **JEV-Star** | State of the art for direct LLM decision-making in StarCraft II | Preprint 2026 | [Paper](https://github.com/sc2musa/Jev_Star/blob/main/paper/JEV-Star.pdf) · [Code](https://github.com/sc2musa/Jev_Star) |
-| **eSports World Model Dataset** | The world’s first open-source, multi-game eSports world-model dataset (SC2 / Dota 2 / CS2) | Released 2026.10 | [Dataset](https://www.modelscope.cn/datasets/meisah111/Esports_world_model_datasets) · [Code](https://github.com/sc2musa/esports-worldmodel-datasets) |
+| **eSports World Model Dataset** | The first open-source, multi-game dataset for long-horizon, multi-agent world modeling in eSports — complete matches with synchronized per-player views (SC2 / Dota 2 / CS2) | Released 2026.10 | [Dataset](https://www.modelscope.cn/datasets/meisah111/Esports_world_model_datasets) · [Code](https://github.com/sc2musa/esports-worldmodel-datasets) |
 
 More papers, projects and demos → **[weiyu.page](https://weiyu.page)**
 
@@ -46,6 +46,6 @@ More papers, projects and demos → **[weiyu.page](https://weiyu.page)**
 - **LLM-SMAC**（AAMAS 2026）：首个多智能体决策场景下的 Agentic RL
 - **FreshPER**：首个通用的 LLM 后训练经验回放算法
 - **JEV-Star**：大模型直接决策在星际争霸 II 上的 SOTA 算法
-- **电子竞技世界模型数据集**：全球首个开源、多游戏的电竞世界模型数据集
+- **电子竞技世界模型数据集**：首个开源的多游戏、长时程、多智能体电竞世界模型数据集，以完整对局为单位提供逐玩家同步视角
 
 完整论文、项目与演示视频见个人主页：**[weiyu.page](https://weiyu.page)**
