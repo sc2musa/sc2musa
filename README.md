@@ -22,7 +22,7 @@ My research asks how AI can perceive, decide and keep learning from interaction 
 
 | Work | What it is | Venue | Links |
 |---|---|---|---|
-| ⭐ **TextStarCraft II** | **The world's first work to put LLMs in charge of real-time decision-making in a complex environment** — pioneering LLM research on complex real-time decision-making, with StarCraft II as the benchmark. 10+ LLMs benchmarked; >50% win rate vs. Harder (Lv5) AI | NeurIPS 2024 | [Paper](https://arxiv.org/abs/2312.11865) · [Code](https://github.com/sc2musa/Large-Language-Models-play-StarCraftII) |
+| ⭐ **LLM Play SC2** (TextStarCraft II) | **The world's first work to put LLMs in charge of real-time decision-making in a complex environment** — pioneering LLM research on complex real-time decision-making, with StarCraft II as the benchmark. 10+ LLMs benchmarked; >50% win rate vs. Harder (Lv5) AI | NeurIPS 2024 | [Paper](https://arxiv.org/abs/2312.11865) · [Code](https://github.com/sc2musa/Large-Language-Models-play-StarCraftII) |
 | **AVA** | **The first VLM-based multi-agent system for complex real-time decision-making** — VLM micro from raw frames; CCF-A | ACL 2026 Findings | [Paper](https://aclanthology.org/2026.findings-acl.208/) · [Code](https://github.com/camel-ai/VLM-Play-StarCraft2) |
 | **EvoCurr** | **The world's first recursive self-improvement (RSI) in complex decision-making** — 72 h unattended self-evolution; 100% win rate with 100+ units, beyond human Grandmasters | EMNLP 2026 Findings | [Paper](https://arxiv.org/abs/2508.09586) · [Code](https://github.com/anchicken/EvoCurr) |
 | **LLM-SMAC** | **The first Agentic RL in complex multi-agent decision-making (StarCraft II)** — far deeper multi-turn interaction than Search-R1-style tool use; 7B model beats DeepSeek-V3 | AAMAS 2026 | [Paper](https://arxiv.org/abs/2410.16024) · [Code](https://github.com/devindeng94/LLM-SMAC) |
@@ -40,7 +40,7 @@ More papers, projects and demos → **[weiyu.page](https://weiyu.page)**
 
 **代表作**
 
-- ⭐ **TextStarCraft II**（NeurIPS 2024）：**全球首个将大模型用于复杂场景实时决策的工作**，开创了以星际争霸 II 为标杆的大模型复杂实时决策方向；系统评测 10+ 主流大模型，对战困难（Lv5）AI 胜率 >50%
+- ⭐ **LLM Play SC2**（TextStarCraft II，NeurIPS 2024，引用 170+）：**全球首个将大模型用于复杂场景实时决策的工作**，开创了以星际争霸 II 为标杆的大模型复杂实时决策方向；系统评测 10+ 主流大模型，对战困难（Lv5）AI 胜率 >50%
 - **AVA**（ACL 2026 Findings）：**首个基于 VLM 的多智能体复杂实时决策系统**，CCF-A
 - **EvoCurr**（EMNLP 2026 Findings）：**全球首个在复杂决策场景实现递归自我改进（RSI）的工作**，无人干预自主进化 72 小时，百余单位协同 100% 胜率、超越人类宗师
 - **LLM-SMAC**（AAMAS 2026）：**首个在星际争霸 II 这类复杂多智能体决策场景下的 Agentic RL 工作**，多轮交互深度远超 Search-R1 类工作，7B 模型超越 DeepSeek-V3
